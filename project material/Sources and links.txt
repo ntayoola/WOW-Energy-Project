@@ -1,0 +1,12 @@
+﻿* Sources
+   * U.S. Energy Information Administration. "Electricity Data: EIA-860." https://www.eia.gov/electricity/data/eia860/
+   * U.S. Energy Information Administration. "Today in Energy: GE has consistently been the leading wind turbine manufacturer in the United States."  https://www.eia.gov/todayinenergy/detail.php?id=28912
+   * General Electric. "GE Renewable Energy."  https://www.ge.com/
+   * Clean Power. "U.S. Wind Energy Market Report 2022."  https://cleanpower.org/market-report-2022/
+   * Our World in Data. "Energy Consumption by Source and Country."  https://ourworldindata.org/grapher/energy-consumption-by-source-and-country
+   * U.S. Department of Energy. "Inflation Reduction Act Spurs Breakthrough in Domestic Wind Production."  https://www.energy.gov/eere/articles/inflation-reduction-act-spurs-breakthrough-domestic-wind-production
+   * U.S. Geological Survey. "Wind Turbine Database Visualization Examples."  https://code.usgs.gov/cdi/cdi-fy20/jupyter-data-stories/-/blob/main/examples/wind_turbine/uswtdbApiMapVizExamples.ipynb
+   * Global Wind Energy Council. "Global Wind Report 2023."  https://gwec.net/wp-content/uploads/2023/04/GWEC-2023_interactive.pdf
+   * University of Michigan. "Wind Energy Factsheet." Center for Sustainable Systems.  https://css.umich.edu/publications/factsheets/energy/wind-energy-factsheet
+   * FERC
+https://ferc.gov
